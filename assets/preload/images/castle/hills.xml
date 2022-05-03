@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hills.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hills0000" x="0" y="0" width="3080" height="1162" frameX="0" frameY="-6" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0001" x="3080" y="0" width="3080" height="1162" frameX="0" frameY="-6" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0002" x="0" y="1162" width="3079" height="1164" frameX="0" frameY="-4" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0003" x="3079" y="1162" width="3079" height="1164" frameX="0" frameY="-4" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0004" x="0" y="2326" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0005" x="3079" y="2326" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0006" x="0" y="3494" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0007" x="3079" y="3494" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0008" x="0" y="4662" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0009" x="3079" y="4662" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0010" x="0" y="5830" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0011" x="3079" y="5830" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0012" x="0" y="6998" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+	<SubTexture name="Hills0013" x="3079" y="6998" width="3079" height="1168" frameX="0" frameY="0" frameWidth="3080" frameHeight="1168"/>
+</TextureAtlas>

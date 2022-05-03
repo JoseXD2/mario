@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "castle",
+		"player1": "bf",
+		"player2": "MarioFnf",
+		"player3": null,
+		"events": [
+			[
+				10000,
+				[
+					[
+						"",
+						"nothing",
+						"lmao"
+					]
+				]
+			],
+			[
+				39629.6296296296,
+				[
+					[
+						"",
+						"nothing",
+						"lmao"
+					]
+				]
+			],
+			[
+				51481.4814814815,
+				[
+					[
+						"",
+						"nothing",
+						"lmao"
+					]
+				]
+			],
+			[
+				51481.4814814815,
+				[
+					[
+						"",
+						"nothing",
+						"lmao"
+					]
+				]
+			],
+			[
+				57777.7777777778,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				58333.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				84074.0740740741,
+				[
+					[
+						"",
+						"nothing",
+						"lmao"
+					]
+				]
+			],
+			[
+				84074.0740740741,
+				[
+					[
+						"",
+						"nothing",
+						"lmao"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 162,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Plumber"
+	}
+}

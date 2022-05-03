@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icon-wbf.png">
+<SubTexture name="bf normal" x="0" y="0" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+<SubTexture name="bf losing" x="0" y="154" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+<SubTexture name="bf winning" x="0" y="308" width="154" height="154" frameX="0" frameY="0" frameWidth="154" frameHeight="154" />
+</TextureAtlas>

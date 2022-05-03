@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="castle.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="castle on hill0000" x="15" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0001" x="15" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0002" x="1273" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0003" x="1273" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0004" x="2531" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0005" x="2531" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0006" x="15" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0007" x="15" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0008" x="1273" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0009" x="1273" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0010" x="15" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0011" x="15" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0012" x="1273" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0013" x="1273" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0014" x="2531" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0015" x="2531" y="15" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0016" x="15" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0017" x="15" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0018" x="1273" y="1330" width="1258" height="1315"/>
+	<SubTexture name="castle on hill0019" x="1273" y="1330" width="1258" height="1315"/>
+</TextureAtlas>

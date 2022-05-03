@@ -1,0 +1,40 @@
+{
+	"storyName": "mr. video game himself",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "mario",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mario time",
+			"mariofnf",
+			[
+				255,
+				0,
+				13
+			]
+		],
+		[
+			"Plumber",
+			"mariofnf",
+			[
+				255,
+				0,
+				13
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "weekmario"
+}
